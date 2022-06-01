@@ -85,3 +85,5 @@ Acknowledgements {#ack}
 ================
 
 The following individuals have contributed to the design of the WebXR Capture specification:
+
+
